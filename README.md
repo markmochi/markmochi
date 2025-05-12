@@ -58,12 +58,9 @@ Repository: [Honkai Bot (Private/Coming Soon)](https://github.com/markmochi)
 ## 📫 Let's Connect
 
 - 🌐 GitHub: [@markmochi](https://github.com/markmochi)
-- ✉️ Email: *(optional, add if you'd like)*
+- ✉️ Email: *marcjeralds@gmail.com*
 - 🤝 Open to learning, collaborating, and creating meaningful software.
 
----
 
-<p align="center">
-  🔧 *Building. Learning. Improving. One commit at a time.*
-</p>
+
 
