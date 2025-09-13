@@ -2,7 +2,7 @@
   <img height="150" src="https://media1.tenor.com/m/ghqqHGks_bsAAAAC/phainon-phainon-hsr.gif" alt="welcome gif" />
 </div>
 
-<h1 align="center">Hi, I'm Marc Jerald Solvero 👋</h1>
+<h1 align="center">Marc Jerald Solvero 👋</h1>
 <h3 align="center">3rd Year Computer Engineering Student | Embedded Systems & Software Development Enthusiast</h3>
 
 <p align="center">
