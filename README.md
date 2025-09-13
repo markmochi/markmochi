@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Marc Jerald Solvero 👋</h1>
-<h3 align="center">2nd Year Computer Engineering Student | Embedded Systems & Software Development Enthusiast</h3>
+<h3 align="center">3rd Year Computer Engineering Student | Embedded Systems & Software Development Enthusiast</h3>
 
 <p align="center">
   <em>“I seek to know myself, for only then can I truly be whole.”</em>
