@@ -2,8 +2,8 @@
   <img height="150" src="https://media1.tenor.com/m/ghqqHGks_bsAAAAC/phainon-phainon-hsr.gif" alt="welcome gif" />
 </div>
 
-<h1 align="center">Marc Jerald Solvero 👋</h1>
-<h3 align="center">3rd Year Computer Engineering Student | Embedded Systems & Software Development Enthusiast</h3>
+<h1 align="center">Sol</h1>
+<h3 align="center">Computer Engineering Student | Embedded Systems & Software Development Enthusiast</h3>
 
 <p align="center">
   <em>“I seek to know myself, for only then can I truly be whole.”</em>
@@ -13,13 +13,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering student passionate about both hardware and software development. My core interests lie in:
+Core interests:
 
 - 🔧 Embedded Systems and Microcontrollers  
 - 💻 Software Development and Programming Languages  
 - 🤖 Building intelligent, interactive bots and tools
 
-I consider myself an explorer—once I start a project, I pursue it to completion with high standards and a strong commitment to quality.
+I pursue it to completion with high standards and a strong commitment to quality.
 
 ---
 
