@@ -25,12 +25,12 @@ I pursue it to completion with high standards and a strong commitment to quality
 
 ## 🚀 Current Project
 
-### 🧭 **Honkai: Star Rail Personality Quiz Discord Bot**
-A themed Discord bot developed in **Python**, designed to determine which Pathstrider you are through a lore-aware personality quiz.
+### 🧭 **ASTERIA Helper Discord Bot**
+A server utility Discord bot developed in **Python**, designed to help and utilize servers
 
 > ✨ More features coming soon, including game integration and interactive responses.
 
-Repository: [Honkai Bot (Private/Coming Soon)](https://github.com/markmochi)
+Repository: [AST Bot (Private/Coming Soon)](https://github.com/markmochi)
 
 ---
 
