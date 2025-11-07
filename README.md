@@ -30,7 +30,6 @@ A server utility Discord bot developed in **Python**, designed to help and utili
 
 > ✨ More features coming soon, including game integration and interactive responses.
 
-Repository: [AST Bot (Private/Coming Soon)](https://github.com/markmochi)
 
 ---
 
