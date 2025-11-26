@@ -48,8 +48,8 @@ A server utility Discord bot developed in **Python**, designed to help and utili
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=markmochi&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=markmochi&layout=compact&theme=github_dark&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markmochi&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmochi&layout=compact&theme=github_dark&hide_title=true" alt="Top Languages" height="150"/>
 
 </p>
 
